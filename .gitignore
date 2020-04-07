@@ -6,3 +6,4 @@ vpc/burgasm
 vpc/burgasm.pub
 vpc/terraform.tfstate
 vpc/terraform.tfstate.backup
+vpc/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.56.0_x4
