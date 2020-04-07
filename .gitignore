@@ -1,0 +1,8 @@
+ec2/tf-demo
+ec2/tf-demo.pub
+ec2/terraform.tfstate.backup
+ec2/terraform.tfstate
+vpc/burgasm
+vpc/burgasm.pub
+vpc/terraform.tfstate
+vpc/terraform.tfstate.backup
